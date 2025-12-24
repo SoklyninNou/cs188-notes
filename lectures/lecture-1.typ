@@ -10,7 +10,7 @@ These are just some of the general interpretation of what an AI should be. The p
 == Rational Decisions
 We use the term *Rational* in a very specific way. *Rationality* Maximally achieve a predetermined goal. We express this in terms of utility of the outcome, how much is the outcome worth. With added certainty, we are technically maximizing the *Expected Utility*.\
 
-== Designing Ration Agents
+== Designing Rational Agents
 An *Agent* is an entity that perceives and acts. A *Rational Agent* selects actions that maximize its (expected) utility based on its environment. An abstract of this is that the agent is in an environment, where it perceives the actions of its surroundings and takes actions accordingly.\
 
 - Skill-based Perspective
