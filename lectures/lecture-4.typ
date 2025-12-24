@@ -1,4 +1,4 @@
-= Background
+= CSPs Background
 In search problems, we are making a number of assumptions about the world: a single agent, deterministic actions, fully observed states, discrete state spaces. etc. So we have to come up with the notion of *Identification Problems*, which is a problem of setting assignments to variables. This problem only focuses on the goal, not the path.
 
 == Constraint Satisfaction Problems
